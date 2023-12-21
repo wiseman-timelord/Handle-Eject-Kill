@@ -95,7 +95,7 @@ Enter your choice:
 - Compatibility with various system architectures (x86, x64, ARM64)
 
 ## Note
-Handle-Kill-Eject was developed because windows refused to eject my media, forced eject could corrupt it, unfortunately my program still did not detect what was accessing it, but, its nice to finally have some form of tool for this other than unlocker. Either way, I shut down, Windows Firewall Control and Open Hardware Monitor and Aquasnap, and lone behold, to my surprise, i was then able to remove it O_o ??! Why? Why?
+Windows refused to eject my media, forced eject could corrupt it, unfortunately my program did not detect what was accessing it (it was Open Hardware Monito, (see here: https://github.com/openhardwaremonitor/openhardwaremonitor/issues/581), but, its nice to have some form of tool for this other than unlocker.
 
 ## Disclaimer
 This program is provided "as is" without warranties or support. Users are responsible for the content they, download and use, as well as, any resulting damage to, hardware or software or sanity or health.
