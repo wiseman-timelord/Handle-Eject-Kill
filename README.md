@@ -5,7 +5,7 @@ Status: Working
 - Testing for process handling and drive ejection.
 
 ## Description
-Handle-Kill-Eject is a comprehensive toolset comprising a PowerShell script and accompanying Batch files, designed to manage system processes that are accessing external or internal drives. This utility is particularly useful for resolving drive ejection issues on Windows systems. It is compatible with a variety of Windows versions, ensuring wide usability.
+Handle-Kill-Eject is a comprehensive toolset comprising a PowerShell script and accompanying Batch files, designed to manage system processes that are accessing external or internal drives. This utility is particularly useful for resolving drive ejection issues on Windows systems. It is compatible with PowerShell 5 onwards, which would include Windows 7/8.1/10/11.
 
 ## Features:
 - **Drive Process Management**: Identifies and lists processes accessing selected drives.
