@@ -15,6 +15,72 @@ Handle-Kill-Eject is a comprehensive toolset comprising a PowerShell script and 
 - **Automated Setup and Cleanup**: Comes with a `Setup-Install.Bat` script that automates the setup process, including downloading necessary files, and cleans up after installation.
 - **Simplified Execution**: The `Handle-Kill-Eject.Bat` file facilitates easy launching of the main PowerShell script.
 
+## Interface:
+```
+
+===================( Handle-Eject-Kill )====================
+
+
+
+
+
+
+
+                     Drive Selection
+
+                        1) C - C:\
+                        2) D - D:\
+                        3) E - E:\
+                        4) F - F:\
+                        5) G - G:\
+                        6) H - H:\
+                        7) I - I:\
+                        8) L - L:\
+
+                     0) Exit program
+
+
+
+
+
+
+
+Enter your choice:
+
+```
+```
+
+===================( Handle-Eject-Kill )====================
+
+
+ Id ProcessName Path
+ -- ----------- ----
+196 explorer    C:\Windows\Explorer.EXE
+196 explorer    C:\Windows\Explorer.EXE
+
+
+
+
+
+                1. Kill all processes
+                2. Kill Processes, Eject drive
+                3. Force Eject Drive
+                4. Re-Scan Selected Drive
+
+                0. Go Back
+
+
+Enter your choice:
+
+
+
+
+
+
+
+
+```
+
 ## Usage
 1. Place Handle-Kill-Eject in its own folder and run `Setup-Install.Bat` to set up necessary files and configurations.
 2. Once setup is complete, execute `Handle-Kill-Eject.Bat` to launch the main PowerShell script.
