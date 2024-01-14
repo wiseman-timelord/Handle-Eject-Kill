@@ -98,4 +98,4 @@ Enter your choice:
 Windows refused to eject my media, forced eject could corrupt it, unfortunately my program did not detect what was accessing it (it was Open Hardware Monito, (see here: https://github.com/openhardwaremonitor/openhardwaremonitor/issues/581), but, its nice to have some form of tool for this other than unlocker.
 
 ## DISCLAIMER
-The "License.Txt" covers, this and relating, stuff.
+This software is subject to the terms in License.Txt, covering usage, distribution, and modifications. For full details on your rights and obligations, refer to License.Txt.
